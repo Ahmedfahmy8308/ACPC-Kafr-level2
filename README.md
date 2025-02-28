@@ -14,4 +14,4 @@ This repository provides structured training materials, coding exercises, and so
 ## 📖 How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/acpc-club-kfs.git
+   git clone https://github.com/Ahmedfahmy8308/acpc-club-kfs.git

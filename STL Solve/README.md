@@ -34,11 +34,11 @@ For additional explanations, you can check out the upsolve video on YouTube:
 ## 📌 How to Use
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/stl-problems-codeforces.git
+   git clone https://github.com/Ahmedfahmy8308/ACPC-Kafr-level2.git
    ```
 2. Navigate to the directory:
    ```sh
-   cd stl-problems-codeforces
+   cd ACPC-Kafr-level2
    ```
 3. Open any solution file to view the implementation.
 

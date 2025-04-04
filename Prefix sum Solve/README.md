@@ -12,8 +12,8 @@ Each problem is linked below with its respective Codeforces page:
 
 | #  | Problem Name | Codeforces Link |
 |----|-------------|----------------|
-| A  | Fahmy's Treasure Hunt (https://codeforces.com/group/phCe831sWG/contest/596167/problem/A) |
-| B  | Fahmy and the Treasure Map (https://codeforces.com/group/phCe831sWG/contest/596167/problem/B) |
+| A  | Fahmy's Treasure Hunt | (https://codeforces.com/group/phCe831sWG/contest/596167/problem/A) |
+| B  | Fahmy and the Treasure Map | (https://codeforces.com/group/phCe831sWG/contest/596167/problem/B) |
 | C  | Ilya and Queries | [313/B](https://codeforces.com/problemset/problem/313/B) |
 | D  | Kuriyama Mirai's Stones | [433/B](https://codeforces.com/problemset/problem/433/B) |
 | E  | Karen and Coffee | [816/B](https://codeforces.com/problemset/problem/816/B) |
